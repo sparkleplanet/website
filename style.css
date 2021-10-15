@@ -1,0 +1,23 @@
+div.main{
+    padding: 2000px;
+    background-color:  red;
+}
+div.main-two{
+    padding: 2000px;
+    background-color: yellow;
+}
+div.main-three{
+    padding: 2000px;
+    background-color: green;
+}
+img{
+    width: 45px;
+     
+}
+.logo{
+    padding-right: 100px;
+    background-color: black;
+}
+.a{
+    color: white;
+}
